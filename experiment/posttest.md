@@ -3,7 +3,7 @@
 Q1. HTML document consists _________ tag.<br>
 A  ‹head›<br>
 B  ‹body›<br>
-**C  Both**<br>
+C  Both<br>
 D  None<br>
 
 Q2. Which extention is used for saving an html document?<br>
