@@ -5,7 +5,7 @@ A  ‹head›<br>
 B  ‹body›<br>
 C  Both<br>
 D  None<br>
-
+<br>
 Q2. Which extention is used for saving an html document?<br>
 A  .web<br>
 B  .docx<br>
