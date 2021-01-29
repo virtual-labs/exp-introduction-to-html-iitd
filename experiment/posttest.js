@@ -78,6 +78,7 @@
 
 // Write your MCQs here --- Start --- --------------------
 
+
   const myQuestions = [
     {
       question: "HTML document consists __________ tag.",
@@ -130,6 +131,7 @@
       correctAnswer: "a"
     },
   ];
+
 
 
 
