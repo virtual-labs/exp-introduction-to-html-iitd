@@ -78,31 +78,32 @@
 
 // Write your MCQs here --- Start --- --------------------
 
+
   const myQuestions = [
     {
-      question: "HTML is :",
+      question: "HTML document consists __________ tag.",
       answers: {
-        a: "markup Language",
-        b: "client side scripting language",
-        c: "server side scripting language",
+        a: "head",
+        b: "body",
+        c: "both",
         d: "none"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
 
     {
-      question: "HTML is acronym for __________ .",
+      question: "Which extention is used for saving an html document?",
       answers: {
-        a: "Hyper type markup language",
-        b: "Hyper text markup language",
-        c: "Hyper text mixed language",
-        d: "None"
+        a: "web",
+        b: "docx",
+        c: "html",
+        d: "ppt"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
-      question: "HTML is used to create web pages.State True or False.",
+      question: "body tag consists the content of our web page. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -111,27 +112,26 @@
     },
 	
 	{
-      question: "HTML can be created in __________ .",
+      question: "Bold and Italic tags are used to emphasize the text in the HTML web page. State True or False.",
       answers: {
-        a: "MS Power-point",
-        b: "Notepad",
-        c: "Flash",
-        d: "None"
+        a: "True",
+        b: "False"
       },
-      correctAnswer: "b"
+      correctAnswer: "a"
     },
 	
 	{
-      question: "HTML web pages can be seen through .",
+      question: "Which tag is used for largest heading?",
       answers: {
-        a: "Web Browsers",
-        b: "Anti-Viruses",
-        c: "Drivers",
-        d: "None"
+        a: "h1",
+        b: "h6",
+        c: "large",
+        d: "big"
       },
       correctAnswer: "a"
     },
   ];
+
 
 
 
