@@ -80,12 +80,12 @@
 
   const myQuestions = [
     {
-      question: "Q1. HTML document consists __________ tag.",
+      question: "HTML document consists __________ tag.",
       answers: {
-        a: "‹head›",
-        b: "‹body›",
-        c: "Both",
-        d: "None"
+        a: "head",
+        b: "body",
+        c: "both",
+        d: "none"
       },
       correctAnswer: "c"
     },
@@ -93,19 +93,19 @@
     {
       question: "Which extention is used for saving an html document?",
       answers: {
-        a: ".web",
-        b: ".docx",
-        c: ".html",
-        d: ".ppt"
+        a: "web",
+        b: "docx",
+        c: "html",
+        d: "ppt"
       },
       correctAnswer: "c"
     },
 
     {
-      question: "‹body› consists the content of our web page. State True or False.",
+      question: "body tag consists the content of our web page. State True or False.",
       answers: {
         a: "True",
-        b: "False"        
+        b: "False"
       },
       correctAnswer: "a"
     },
@@ -114,7 +114,7 @@
       question: "Bold and Italic tags are used to emphasize the text in the HTML web page. State True or False.",
       answers: {
         a: "True",
-        b: "False"        
+        b: "False"
       },
       correctAnswer: "a"
     },
@@ -122,10 +122,10 @@
 	{
       question: "Which tag is used for largest heading?",
       answers: {
-        a: "‹h1›",
-        b: "‹h6›",
-        c: "‹large›,"
-        d: "‹big›"
+        a: "h1",
+        b: "h6",
+        c: "large",
+        d: "big"
       },
       correctAnswer: "a"
     },
