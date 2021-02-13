@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The aim of the experiment is to demonstrate working of HTML code and create basic HTML pages using proper syntax.
 
 <b>Name of Developer | <b> Prof. Ranjan Bose 
 :--|:--|
