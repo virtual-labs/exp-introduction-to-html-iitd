@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. HTML is a ______________.:",
+      question: "Q1. HTML is a ______________.",
       answers: {
         a: "markup Language",
         b: "client side scripting language",
@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "Q4. HTML can be created in __________ .",
+      question: "Q4. HTML can be created in __________.",
       answers: {
         a: "MS Power-point",
         b: "Notepad",
@@ -122,7 +122,7 @@
     },
 	
 	{
-      question: "Q5. HTML web pages can be seen through .",
+      question: "Q5. HTML web pages can be seen through________________.",
       answers: {
         a: "Web Browsers",
         b: "Anti-Viruses",
