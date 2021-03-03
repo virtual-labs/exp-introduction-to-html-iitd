@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "HTML is :",
+      question: "Q1. HTML is a ______________.:",
       answers: {
         a: "markup Language",
         b: "client side scripting language",
@@ -91,7 +91,7 @@
     },
 
     {
-      question: "HTML is acronym for __________ .",
+      question: "Q2. HTML is an acronym for ___________________.",
       answers: {
         a: "Hyper type markup language",
         b: "Hyper text markup language",
@@ -102,7 +102,7 @@
     },
 
     {
-      question: "HTML is used to create web pages.State True or False.",
+      question: "Q3. HTML is used to create web pages. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "HTML can be created in __________ .",
+      question: "Q4. HTML can be created in __________ .",
       answers: {
         a: "MS Power-point",
         b: "Notepad",
@@ -122,7 +122,7 @@
     },
 	
 	{
-      question: "HTML web pages can be seen through .",
+      question: "Q5. HTML web pages can be seen through .",
       answers: {
         a: "Web Browsers",
         b: "Anti-Viruses",
