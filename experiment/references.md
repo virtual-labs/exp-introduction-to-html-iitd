@@ -8,5 +8,3 @@
 3. HTML and CSS: Design and Build Websites By- Jon Duckett.
 
 4. NPTEL: Introduction to HTML NPTEL: HTML-Part-I
-
-5. Learn HTML Online  https://www.learn-html.org/
