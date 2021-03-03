@@ -1,8 +1,8 @@
-**1.1 Introduction**
+### 1.1 Introduction
 
 HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but "HTML 2.0" was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012.
 
-**1.2 Write code**
+### 1.2 Write code
 
 Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad PC
 
@@ -11,18 +11,18 @@ Step 2: Write Some HTML
 Step 3: Save the HTML Page Name the file 'index.htm' and set the encoding to UTF-8 (which is the preferred encoding for HTML files).You can use either .htm or .html as file extension. There is no difference, it is up to you.
 Step 4: View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
 
-**1.3 Structure**
+### 1.3 Structure
 
 Hypertext Markup Language (HTML) is the most common language used to create documents on the World Wide Web. HTML uses hundreds of different tags to define a layout for web pages. Most tags require an opening tag and a closing tag HTML tags should be “nested” in a proper order, meaning that the tag opened most recently is always the next tag to close. In the following example, the HTML code is nested correctly, and we’ve drawn lines to connect opening and closing tags:
 
 
 
-**1.4 Tags**
+### 1.4 Tags
 An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.
 Heading Tags
 Any document starts with a heading. You can use different sizes for your headings. HTML also has six levels of headings, which use the elements h1, h2, h3, h4, h5, and h6. While displaying any heading, browser adds one line before and one line after that heading.
 
-**Description**
+### Description
 
 The HTML ‹h1› tag defines the highest level or most important heading in the HTML document. This tag is also commonly referred to as the ‹h1› element.
 
