@@ -1,4 +1,4 @@
-### These procedure steps will be followed on the simulator
+### These steps will be followed on the simulator
 
 1. The experiment begins with previewing the output of different tags in "Preview Section" given at the top by hovering the cursor in the "Tag Button Section" given.
 
