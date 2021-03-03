@@ -81,7 +81,7 @@
 
   const myQuestions = [
     {
-      question: "HTML document consists __________ tag.",
+      question: "Q1. HTML document consists __________ tag.",
       answers: {
         a: "head",
         b: "body",
@@ -92,7 +92,7 @@
     },
 
     {
-      question: "Which extention is used for saving an html document?",
+      question: "Q2. Which extention is used for saving an html document?",
       answers: {
         a: "web",
         b: "docx",
@@ -103,7 +103,7 @@
     },
 
     {
-      question: "body tag consists the content of our web page. State True or False.",
+      question: "Q3. body tag consists the content of our web page. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -112,7 +112,7 @@
     },
 	
 	{
-      question: "Bold and Italic tags are used to emphasize the text in the HTML web page. State True or False.",
+      question: "Q4. Bold and Italic tags are used to emphasize the text in the HTML web page. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -121,7 +121,7 @@
     },
 	
 	{
-      question: "Which tag is used for largest heading?",
+      question: "Q5. Which tag is used for largest heading?",
       answers: {
         a: "h1",
         b: "h6",
