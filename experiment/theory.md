@@ -19,6 +19,21 @@ An HTML Document is mainly divided into two parts:
   <li>HEAD: This contains the information about the HTML document. For Example, Title of the page, version of HTML, Meta Data etc.</li>
    <li>BODY: This contains everything you want to display on the Web Page.</li>
 </ul>
+<pre>
+<!DOCTYPE html>
+ 
+<html>
+    <head>
+        <title> Page Title</title>
+    </head>
+     
+    <body>
+    <h2> Write heading here</h2>
+    <p> Write paragraph here</p>
+    </body>
+    
+</html>
+</pre>
 
 ### 1.4 Tags
 An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.
