@@ -20,20 +20,38 @@ An HTML Document is mainly divided into two parts:
    <li>BODY: This contains everything you want to display on the Web Page.</li>
 </ul>
 
+```
 <!DOCTYPE html>
- 
 <html>
     <head>
         <title> Page Title</title>
     </head>
-     
     <body>
     <h2> Write heading here</h2>
     <p> Write paragraph here</p>
     </body>
-    
 </html>
+```
+Every Webpage must contain this code. Below is the complete explanation of each of the tag used in the above piece of HTML code:<br>
+<ul>
+<li><!DOCTYPE html>: This tag is used to tells the HTML version. This currently tells that the version is HTML 5.</li>
+<li><html>: This is called HTML root element and used to wrap all the code.</li>
+<li><head>: Head tag contains metadata, title, page CSS etc. All the HTML elements that can be used inside the <head> element are:</li> 
+<li><style></li>
+<li><title></li>
+<li><base></li>
+<li><noscript></li>
+<li><script></li>
+<li><meta></li>
+</ul> 
 
+<style>
+<title>
+<base>
+<noscript>
+<script>
+<meta>
+<body>: Body tag is used to enclose all the data which a web page has from texts to links. All the content that you see rendered in the browser is contained within this element. 
 
 ### 1.4 Tags
 An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.
