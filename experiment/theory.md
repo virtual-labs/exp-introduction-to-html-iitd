@@ -43,7 +43,7 @@ Every Webpage must contain this code. Below is the complete explanation of each 
 ### 1.4 Tags
 An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.<br>
 
-##### 1.4.1 Heading Tags:
+#### 1.4.1 Heading Tags:
 Any document starts with a heading. You can use different sizes for your headings. HTML also has six levels of headings, which use the elements h1, h2, h3, h4, h5, and h6. While displaying any heading, browser adds one line before and one line after that heading.
 
 <ul>
@@ -52,7 +52,7 @@ Any document starts with a heading. You can use different sizes for your heading
 <li>The HTML ‹h2› to ‹h6› tags define the different levels of headings in the HTML document.</li>
 </ul>
 
-##### 1.4.2 Other Tags:
+#### 1.4.2 Other Tags:
 <ul>
 <li>The HTML ‹b› tag merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹b› element.</li>
 <li>The HTML ‹i› tag merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹i› element.</li>
