@@ -6,16 +6,19 @@ HTML stands for Hyper Text Markup Language, which is the most widely used langua
 
 Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad or advance text editor like VS Code or Sublime.
 
-Step 1: Open Notepad in your PC <br>
-Step 2: Write Some HTML <br>
-Step 3: Save the HTML Page Name the file 'index.html' and set the encoding to UTF-8 (which is the preferred encoding for HTML files).<br>You can use either .htm or .html as file extension. There is no difference, it is up to you.<br>
-Step 4: View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
+Step 1:  Open Notepad in your PC <br>
+Step 2:  Write Some HTML Code <br>
+Step 3:  Save the HTML Page Name the file 'index.html' and set the encoding to UTF-8 (which is the preferred encoding for HTML files).<br>You can use either .htm or .html as file extension. There is no difference, it is up to you.<br>
+Step 4:  View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
 
-### 1.3 Structure
+### 1.3 Structure of an HTML Document
 
-Hypertext Markup Language (HTML) is the most common language used to create documents on the World Wide Web. HTML uses hundreds of different tags to define a layout for web pages. Most tags require an opening tag and a closing tag HTML tags should be “nested” in a proper order, meaning that the tag opened most recently is always the next tag to close. In the following example, the HTML code is nested correctly, and we’ve drawn lines to connect opening and closing tags:
-
-
+An HTML Document is mainly divided into two parts: 
+<br>
+<ul>
+  <li>HEAD: This contains the information about the HTML document. For Example, Title of the page, version of HTML, Meta Data etc.</li>
+   <li>BODY: This contains everything you want to display on the Web Page.</li>
+</ul>
 
 ### 1.4 Tags
 An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.
