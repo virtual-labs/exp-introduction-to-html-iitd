@@ -15,12 +15,11 @@ Web pages can be created and modified by using professional HTML editors. Howeve
 
 An HTML Document is mainly divided into two parts: 
 <br>
+
 <ul>
-  
     <li>HEAD: This contains the information about the HTML document. For Example, Title of the page, version of HTML, Meta Data etc.</li>
     <li>BODY: This contains everything you want to display on the Web Page.</li>
-  
-</ul>
+ </ul>
 
 ```
 <!DOCTYPE html>
@@ -54,12 +53,23 @@ Any document starts with a heading. You can use different sizes for your heading
 <li>The HTML ‹h2› to ‹h6› tags define the different levels of headings in the HTML document.</li>
 </ul>
 
+ ##### Syntax of Heading Tags:
+   
+   ```
+<h1>Heading 1 </h1> 
+<h2>Heading 2 </h2>
+<h3>Heading 3 </h3>
+<h4>Heading 4 </h4>
+<h5>Heading 5 </h5>
+<h6>Heading 6 </h6>
+```
+
 #### 1.4.2 Other Tags:
 <ul>
-<li>The HTML ‹b› tag merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹b› element.</li>
-<li>The HTML ‹i› tag merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹i› element.</li>
-<li>The HTML ‹u› tag defines text that should be styled differently or have a non-textual annotation. Browsers traditionally render the text found within the ‹u› tag as underlined text. This tag is also commonly referred to as the ‹u› element.</li>
-<li>The HTML ‹p› tag defines a paragraph in the HTML document. This tag is also commonly referred to as the ‹p› element.</li>
-<li>The HTML ‹big› tag makes text one font size bigger in the HTML document. This tag is also commonly referred to as the ‹big› element.</li>
-<li>The HTML ‹small› tag makes text one font size smaller in the HTML document. This tag is also commonly referred to as the ‹small› element.</li>
+<li>The HTML **‹b› tag** merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the **‹b›** element.</li>
+<li>The HTML **‹i› tag** merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the **‹i›** element.</li>
+<li>The HTML **‹u› tag** defines text that should be styled differently or have a non-textual annotation. Browsers traditionally render the text found within the **‹u›** tag as underlined text. This tag is also commonly referred to as the ‹u› element.</li>
+<li>The HTML **‹p› tag** defines a paragraph in the HTML document. This tag is also commonly referred to as the **‹p›** element.</li>
+<li>The HTML **‹big› tag** makes text one font size bigger in the HTML document. This tag is also commonly referred to as the **‹big›** element.</li>
+<li>The HTML **‹small› tag** makes text one font size smaller in the HTML document. This tag is also commonly referred to as the **‹small›** element.</li>
 </ul>
