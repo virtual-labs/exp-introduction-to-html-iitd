@@ -4,11 +4,11 @@ HTML stands for Hyper Text Markup Language, which is the most widely used langua
 
 ### 1.2 Write code
 
-Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad PC
+Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad or advance text editor like VS Code or Sublime.
 
-Step 1: Open Notepad PC
-Step 2: Write Some HTML
-Step 3: Save the HTML Page Name the file 'index.htm' and set the encoding to UTF-8 (which is the preferred encoding for HTML files).You can use either .htm or .html as file extension. There is no difference, it is up to you.
+Step 1: Open Notepad in your PC <br>
+Step 2: Write Some HTML <br>
+Step 3: Save the HTML Page Name the file 'index.html' and set the encoding to UTF-8 (which is the preferred encoding for HTML files).You can use either .htm or .html as file extension. There is no difference, it is up to you.<br>
 Step 4: View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
 
 ### 1.3 Structure
