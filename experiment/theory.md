@@ -34,34 +34,30 @@ An HTML Document is mainly divided into two parts:
 ```
 Every Webpage must contain this code. Below is the complete explanation of each of the tag used in the above piece of HTML code:<br>
 <ul>
-<li><!DOCTYPE html>: This tag is used to tells the HTML version. This currently tells that the version is HTML 5.</li>
-<li><html>: This is called HTML root element and used to wrap all the code.</li>
-<li><head>: Head tag contains metadata, title, page CSS etc.</li> 
-</ul> 
-
-
-
-<body>: Body tag is used to enclose all the data which a web page has from texts to links. All the content that you see rendered in the browser is contained within this element. 
+<li>&lt;!DOCTYPE html&gt;: This tag is used to tells the HTML version. This currently tells that the version is HTML 5.</li>
+<li>&lt;html&gt;: This is called HTML root element and used to wrap all the code.</li>
+<li>&lt;head&gt;: Head tag contains metadata, title, page CSS etc.</li> 
+<li>&lt;body&gt;: Body tag is used to enclose all the data which a web page has from texts to links. All the content that you see rendered in the browser is contained within this element.</li>
+</ul>
 
 ### 1.4 Tags
-An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.
-Heading Tags
+An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.<br>
+
+##### 1.4.1 Heading Tags:
 Any document starts with a heading. You can use different sizes for your headings. HTML also has six levels of headings, which use the elements h1, h2, h3, h4, h5, and h6. While displaying any heading, browser adds one line before and one line after that heading.
 
-### Description
+<ul>
+<li>The HTML ‹h1› tag defines the highest level or most important heading in the HTML document. This tag is also commonly referred to as the ‹h1› element.</li>
 
-The HTML ‹h1› tag defines the highest level or most important heading in the HTML document. This tag is also commonly referred to as the ‹h1› element.
+<li>The HTML ‹h2› to ‹h6› tags define the different levels of headings in the HTML document.</li>
+</ul>
 
-The HTML ‹h2› to ‹h6› tags define the different levels of headings in the HTML document.
-
-The HTML ‹b› tag merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹b› element.
-
-The HTML ‹i› tag merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹i› element.
-
-The HTML ‹u› tag defines text that should be styled differently or have a non-textual annotation. Browsers traditionally render the text found within the ‹u› tag as underlined text. This tag is also commonly referred to as the ‹u› element.
-
-The HTML ‹p› tag defines a paragraph in the HTML document. This tag is also commonly referred to as the ‹p› element.
-
-The HTML ‹big› tag makes text one font size bigger in the HTML document. This tag is also commonly referred to as the ‹big› element.
-
-The HTML ‹small› tag makes text one font size smaller in the HTML document. This tag is also commonly referred to as the ‹small› element.
+##### 1.4.2 Other Tags:
+<ul>
+<li>The HTML ‹b› tag merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹b› element.</li>
+<li>The HTML ‹i› tag merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the ‹i› element.</li>
+<li>The HTML ‹u› tag defines text that should be styled differently or have a non-textual annotation. Browsers traditionally render the text found within the ‹u› tag as underlined text. This tag is also commonly referred to as the ‹u› element.</li>
+<li>The HTML ‹p› tag defines a paragraph in the HTML document. This tag is also commonly referred to as the ‹p› element.</li>
+<li>The HTML ‹big› tag makes text one font size bigger in the HTML document. This tag is also commonly referred to as the ‹big› element.</li>
+<li>The HTML ‹small› tag makes text one font size smaller in the HTML document. This tag is also commonly referred to as the ‹small› element.</li>
+</ul>
