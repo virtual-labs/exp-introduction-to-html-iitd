@@ -9,7 +9,7 @@ Web pages can be created and modified by using professional HTML editors. Howeve
 Step 1:  Open Notepad in your PC <br>
 Step 2:  Write Some HTML Code <br>
 Step 3:  Save the HTML Page Name the file 'index.html' and set the encoding to UTF-8 (which is the preferred encoding for HTML files).<br>You can use either .htm or .html as file extension. There is no difference, it is up to you.<br>
-Step 4:  View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
+Step 4:  View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with')
 
 ### 1.3 Structure of an HTML Document
 
