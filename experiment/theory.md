@@ -66,6 +66,10 @@ Any document starts with a heading. You can use different sizes for your heading
 #### 1.4.2 Other Tags:
 
 - The HTML **‹b› tag** merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the **‹b›** element.
+
+ > syntax:
+ > <b>Write your text here to make it bold</b>
+ 
 - The HTML **‹i› tag** merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the **‹i›** element.
 - The HTML **‹u› tag** defines text that should be styled differently or have a non-textual annotation. Browsers traditionally render the text found within the **‹u›** tag as underlined text. This tag is also commonly referred to as the ‹u› element.
 - The HTML **‹p› tag** defines a paragraph in the HTML document. This tag is also commonly referred to as the **‹p›** element.
