@@ -37,13 +37,14 @@ Every Webpage must contain this code. Below is the complete explanation of each 
 <li><!DOCTYPE html>: This tag is used to tells the HTML version. This currently tells that the version is HTML 5.</li>
 <li><html>: This is called HTML root element and used to wrap all the code.</li>
 <li><head>: Head tag contains metadata, title, page CSS etc. All the HTML elements that can be used inside the <head> element are:</li> 
+</ul> 
+  <br>
 <li><style></li>
 <li><title></li>
 <li><base></li>
 <li><noscript></li>
 <li><script></li>
 <li><meta></li>
-</ul> 
 
 <style>
 <title>
