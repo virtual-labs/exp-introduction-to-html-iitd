@@ -82,9 +82,9 @@
     {
       question: "Q1. HTML is a ______________.",
       answers: {
-        a: "markup Language",
-        b: "client side scripting language",
-        c: "server side scripting language",
+        a: "Markup Language",
+        b: "Client side scripting language",
+        c: "Server side scripting language",
         d: "none"
       },
       correctAnswer: "a"
