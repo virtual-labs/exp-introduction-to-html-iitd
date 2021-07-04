@@ -2,9 +2,9 @@
 #### Please attempt the following questions
 
 Q1. HTML is :<br>
-**A  markup Language**<br>
-B  client side scripting language<br>
-C  server side scripting language<br>
+**A  Markup Language**<br>
+B  Client side scripting language<br>
+C  Server side scripting language<br>
 D  None<br>
 
 Q2. HTML is acronym for<br>
