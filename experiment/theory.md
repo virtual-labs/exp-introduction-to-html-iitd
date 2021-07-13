@@ -66,11 +66,13 @@ Any document starts with a heading. You can use different sizes for your heading
 #### 1.4.2 Other Tags:
 
 - The HTML **‹b› tag** merely gives text a bold appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the **‹b›** element.
+
 ```
  syntax:
  <b>Write your text here to make it Bold</b>
  ```
 - The HTML **‹i› tag** merely gives text an italicized appearance but does not provide any semantic meaning to the text. This tag is also commonly referred to as the **‹i›** element.
+
 ```
  syntax:
  <i>Write your text here to make it Italic</i>
