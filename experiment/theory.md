@@ -1,22 +1,22 @@
 ### 1.1 Introduction
 
-HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but "HTML 2.0" was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012.
+HTML stands for Hyper Text Markup Language, which is the most widely used language on web to develop web pages. HTML was created by Berners-Lee in late 1991 but "HTML 2.0" was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012.
 
 ### 1.2 Write code
 
 Web pages can be created and modified by using professional HTML editors. However, for learning HTML we recommend a simple text editor like Notepad or advance text editor like VS Code or Sublime.
 
 **Step 1:**  Open Sublime text editor in your PC. <br>
-**Step 2:**  Write Some HTML Code. <br>
-**Step 3:**  Save the HTML Page Name the file 'index.html'.<br>You can use either .htm or .html as file extension. There is no difference, it is up to you.<br>
-**Step 4:**  View the HTML Page in Your Browser Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
+**Step 2:**  Write some HTML code. <br>
+**Step 3:**  Save the HTML page with name 'index.html'.<br>You can use either .htm or .html as file extension. There is no difference, it is up to you.<br>
+**Step 4:**  View the HTML page in your browser by opening the saved HTML file in your favorite browser (double click on the file, or right-click - and choose 'Open with').
 
 ### 1.3 Structure of an HTML Document
 
-An HTML Document is mainly divided into two parts: 
+An HTML document is mainly divided into two parts: 
 <br>
 
-- **HEAD:** This contains the information about the HTML document. For Example, Title of the page, version of HTML, Meta Data etc.
+- **HEAD:** This contains the information about the HTML document. For Example, Title of the page, Version of HTML, Meta Data etc.
 - **BODY:** This contains everything you want to display on the Web Page.
 
 
@@ -32,7 +32,7 @@ An HTML Document is mainly divided into two parts:
     </body>
 </html>
 ```
-Every Webpage must contain this code. Below is the complete explanation of each of the tag used in the above piece of HTML code:<br>
+Every webpage must contain this code. Below is the complete explanation of each of the tag used in the above piece of HTML code:<br>
 
 - **&lt;!DOCTYPE html&gt;:** This tag is used to tells the HTML version. This currently tells that the version is HTML 5.
 - **&lt;html&gt;:** This is called HTML root element and used to wrap all the code.
