@@ -17,7 +17,7 @@
 	},
 	"correctAnswer": "c"
 }, {
-	"question": "Q3. body tag consists the content of our web page. State True or False.",
+	"question": "Q3. Body tag consists the content of our web page. State True or False.",
 	"answers": {
 		"a": "True",
 		"b": "False"
