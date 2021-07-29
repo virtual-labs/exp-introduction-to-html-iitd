@@ -41,7 +41,7 @@ Every webpage must contain this code. Below is the complete explanation of each 
 
 
 ### 1.4 Tags
-An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.<br>
+An HTML code that defines every structure on an HTML page, including the placement of text, images and hypertext links. HTML tags begin with the less-than (<) character and end with greater-than (>). These symbols are also called angle brackets.<br>Most of the tags in HTML are used in pair like starting and closing tag but Empty tags are used individually which means only starting tag can be used for empty tags. No closing tag is requred for using empty tags.
 
 #### 1.4.1 Heading Tags:
 Any document starts with a heading. You can use different sizes for your headings. HTML also has six levels of headings, which use the elements h1, h2, h3, h4, h5, and h6. While displaying any heading, browser adds one line before and one line after that heading.
